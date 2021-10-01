@@ -8,6 +8,6 @@
     <?php wp_head();?>
 </head>
 <body>
-    
-</body>
-</html>
+<header id="header">
+    -Меню-
+</header>
